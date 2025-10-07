@@ -211,7 +211,7 @@
       "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/0.23.0/zigbee-adapter-0.23.0-linux-arm-v20.tgz ",
       "checksum": "2c28b236e8418724a6f43f0ec1ea34d8ed24a4d2c67340cb2ebae1e6bd09ca5a",
       "gateway": {
-        "min": "2.0.0",
+        "min": "1.0.0",
         "max": "*"
       }
     },
@@ -227,7 +227,7 @@
       "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/0.23.0/zigbee-adapter-0.23.0-linux-arm64-v20.tgz",
       "checksum": "a69a3914f819303fffc359d3e6f8ba3befe96203baa039bad39559ddecfcdbaa",
       "gateway": {
-        "min": "2.0.0",
+        "min": "1.0.0",
         "max": "*"
       }
     },
@@ -243,7 +243,7 @@
       "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/0.23.0/zigbee-adapter-0.23.0-linux-x64-v20.tgz",
       "checksum": "02a3be0945e0d684d8aea49961702346b210dd99ec94788d71a5ff2ad474b337",
       "gateway": {
-        "min": "2.0.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }

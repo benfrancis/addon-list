@@ -38,6 +38,22 @@
         "min": "2.0.0-beta.1",
         "max": "*"
       }
+    },
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "115"
+        ]
+      },
+      "version": "2.1.0",
+      "url": "https://github.com/WebThingsIO/virtual-things-adapter/releases/download/2.1.0/virtual-things-adapter-2.1.0.tgz",
+      "checksum": "e41cb9b356e74da036538a1c4845699b6dd0927b0788b51f7aaec2736e96bb16",
+      "gateway": {
+        "min": "2.1.0-beta.1",
+        "max": "*"
+      }
     }
   ]
 }
